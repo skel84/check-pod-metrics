@@ -8,3 +8,4 @@ builds:
   filter:
   -  "entity.system.os == 'linux'"
   -  "entity.system.arch == 'amd64'"
+  sha512: c31714f54e2dea2d03ceb4b55ac5291e8e9612bc3a979f600ce4df73bc0c6ab9518133428b4e5188ded88dc27e519896ff51215a6f4e276d696e0d5e078f9e35
